@@ -11,10 +11,11 @@
     font-size: 80px;
     color: #76C27E;
 }
-.btn-color{
-    background-color: #2A1E59;
-    border: 0;
-    border-radius: .5em;
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #2A1E59 !important;
+}
+.color{
+    color: #2A1E59;
 }
 .text-buy{
     color: white;
